@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Preeti araksali** · Team ID `VTU-QFF-HC-0003` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Preeti araksali)
+[⬆ Back to Top](#preeti-araksali)
 
 </div>
